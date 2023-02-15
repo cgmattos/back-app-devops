@@ -1,0 +1,20 @@
+{
+  "name": "backend-app-devops",
+  "version": "1.0.0",
+  "description": "Aplicação backend para o papo devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cgmattos/back-app-devops.git"
+  },
+  "keywords": [
+    "papo",
+    "devops",
+    "backend"
+  ],
+  "author": "Carlos Guilherme Matos de Almeida da Silva",
+  "license": "ISC"
+}
